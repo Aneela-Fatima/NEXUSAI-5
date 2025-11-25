@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "price": 59.99,
+    "category": "Electronics",
+    "image": "image/image1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "price": 129.99,
+    "category": "Electronics",
+    "image": "image/image2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Notebook",
+    "price": 39.99,
+    "category": "Clothing",
+    "image": "image/image3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Casual Sneakers",
+    "price": 49.99,
+    "category": "Footwear",
+    "image": "image/image4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Gaming Mouse",
+    "price": 25.99,
+    "category": "Electronics",
+    "image": "image/image5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Blue Hoddie",
+    "price": 34.99,
+    "category": "Accessories",
+    "image": "image/image6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Bag Pack",
+    "price": 9.99,
+    "category": "Home",
+    "image": "image/image7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Bluetooth Speaker",
+    "price": 45.00,
+    "category": "Electronics",
+    "image": "image/image8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Sunglasses",
+    "price": 15.00,
+    "category": "Accessories",
+    "image": "image/image9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Water Bottle",
+    "price": 5.00,
+    "category": "Stationery",
+    "image": "image/image10.jpg"
+  }
+]
